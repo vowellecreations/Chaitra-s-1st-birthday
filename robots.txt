@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Allow WhatsApp, Telegram, Facebook, and Twitter bot crawling for rich previews
+User-agent: WhatsApp
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
